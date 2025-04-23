@@ -1,0 +1,86 @@
+[
+    {
+      "id": 1,
+      "name": "Vivo T4 5G",
+      "price": "21,999",
+      "description": "Slimmest 7300mAh Battery Phone",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2025/04/Vivo-T4-5G-launch-date-768x478.jpg",
+      "specs": {
+        "Display": "6.77-inch FHD AMOLED display  ",
+        "Battery": "7300mAh",
+        "Camera": "50MP main camera with f/1.79 aperture, 2MP depth sensor with f/2.4 aperture, 32MP front camera with f/2.0 aperture",
+        "Processor": "Qualcomm Snapdragon 7s Gen 3 chipset",
+        "RAM and storage": "8GB+128GB, 8GB+256GB and 12GB+256GB"
+      }
+    },
+    {
+      "id": 2,
+      "name": "POCO F7 Pro",
+      "price": "---",
+      "description": "Ultrapower Unleashed",
+      "image": "https://eloutput.com/wp-content/uploads/2025/01/POCO-F7-Ultra-y-F7-Pro-0.jpg",
+      "specs": {
+        "Display": "2K 120Hz Flow AMOLED display ",
+        "Battery": "6000mAh (typ) battery, 37 mins Charge to 100%",
+        "Camera": "50MP dual camera with OIS, 8MP Ultra-wide camera",
+        "Processor": "Snapdragon® 8 Gen 3",
+        "RAM and storage": "12GB+256GB, 12GB+512GB"
+      }
+    },
+    {
+      "id": 3,
+      "name": "IQOO Z10",
+      "price": "21,999",
+      "description": "India's Biggest Battery Ever",
+      "image": "https://in-exstatic-vivofs.vivo.com/gdHFRinHEMrj3yPG/Picture_library/1744347021957/zip/img/gallery-pc-img1.jpg",
+      "specs": {
+        "Display": "Quad, Curved AMOLED Display, 5000 nits Local Peak Brightness",
+        "Battery": "7300mAh (typ) battery, 33 mins Charge 1% to 50%",
+        "Camera": "50 MP Sony IMX882 AI Camera, 2 MP Bokeh Camera, 32 MP Front Wide-Angle Camera",
+        "Processor": "Snapdragon® 7s Gen 3 Mobile Platform",
+        "RAM and storage": "8GB+128GB, 8GB+256GB, 12GB+256GB, "
+      }
+    },
+    {
+      "id": 4,
+      "name": "IQOO Z10x",
+      "price": "---",
+      "description": "Segment's Fastest Smartphone",
+      "image": "https://in-exstatic-vivofs.vivo.com/gdHFRinHEMrj3yPG/Picture_library/1744364212663/zip/img/gallery-pc-img2.jpg",
+      "specs": {
+        "Display": "120 Hz Eye Care LCD Display  ",
+        "Battery": "6500 mAh (Typical), 40 mins Charge 1% to 50%",
+        "Camera": "Rear: 50 MP AF (main) + 2 MP (Bokeh) | Front: 8MP",
+        "Processor": "MediaTek Dimensity 7300",
+        "RAM and storage": "6GB | 8GB, 128GB | 256 GB"
+      }
+    },
+    {
+      "id": 5,
+      "name": "Poco F7 Ultra",
+      "price": "---",
+      "description": "Ultrapower Unleashed",
+      "image": "https://www.91-cdn.com/hub/wp-content/uploads/2024/11/POCO-f7-1.jpg",
+      "specs": {
+        "Display": "2K 120Hz Flow AMOLED display ",
+        "Battery": "5300mAh (typ) battery, 34 mins Charge to 100%",
+        "Camera": "50MP triple camera with OIS, 32MP Ultra-wide camera, 50MP Floating telephoto lens",
+        "Processor": "Snapdragon® 8 Elite",
+        "RAM and storage": "12GB+256GB, 16GB+512GB"
+      }
+    },
+    {
+      "id": 6,
+      "name": "motorola edge 60 stylus",
+      "price": "22,999",
+      "description": "the best mobile phone with Dolby Atmos® Sound and pOLED display",
+      "image": "https://th.bing.com/th?id=OIF.negJ3lqeXxGvP061FG%2bU1A&rs=1&pid=ImgDetMain",
+      "specs": {
+        "Display": "6.67 pOLED 2.5D Display ",
+        "Battery": "5000mAh",
+        "Camera": "50MP Sony - LYTIA™ 700C sensor, 32MP Ultra-wide angle, 3 in 1 Light sensor (Ambient light + Flicker reduction + RGB Sensor)",
+        "Processor": "Snapdragon® 7s Gen 2 Mobile Processor",
+        "RAM and storage": "8GB+256GB"
+      }
+    }
+  ]
