@@ -1,5 +1,75 @@
 [
     {
+      "id": 11,
+      "name": "Oneplus Nord CE 5",
+      "price": "---",
+      "description": "",
+      "image": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1Gqcly.img?w=768&h=432&m=6",
+      "specs": {
+        "Display": "6.77-inch 1.5K AMOLED screen with 120Hz refresh rate",
+        "Battery": "7,100 mAh",
+        "Camera": "50MP primary camera",
+        "Processor": "Dimensity 9400e processor",
+        "RAM and storage": ""
+      }
+    },
+    {
+      "id": 10,
+      "name": "POCO F7",
+      "price": "---",
+      "description": "",
+      "image": "https://i.ytimg.com/vi/YiuqQDAZOB4/maxresdefault.jpg",
+      "specs": {
+        "Display": "6.83-inch flat OLED LTPS display with a 120Hz refresh rate, 1.5K resolution, and 1,800 nits of brightness ",
+        "Battery": "7,550 mAh battery with 90W fast charging support",
+        "Camera": "50MP Sony IMX766 primary sensor with OIS and an 8MP ultrawide sensor, 20MP selfie camera",
+        "Processor": "Qualcomm Snapdragon 8s Gen 4",
+        "RAM and storage": " 16GB+512GB"
+      }
+    },
+    {
+      "id": 9,
+      "name": "Vivo T4 Ultra",
+      "price": "",
+      "description": "",
+      "image": "https://th.bing.com/th?id=OIF.y%2bEiCzh4Kc4PSPWnVEL6Mw&rs=1&pid=ImgDetMain",
+      "specs": {
+        "Display": "6.67 inch OLED quad curved display with 120Hz refresh rate",
+        "Battery": "5,500mAh",
+        "Camera": "50MP Sony IMX 921 primary shooter with OIS, an 8MP ultra-wide angle lens and a 50MP Sony IMX 882 telephoto lens with 3x optical zoom and support for OIS ",
+        "Processor": "MediaTek Dimensity 9300 processor",
+        "RAM and storage": " "
+      }
+    },
+    {
+      "id": 8,
+      "name": "OnePlus 13s",
+      "price": "54,999.00",
+      "description": "Stronger, Smarter, Smaller",
+      "image": "https://www.thetechoutlook.com/wp-content/uploads/2025/06/OnePlus-13-Feature-Image.jpg",
+      "specs": {
+        "Display": " 120Hz ProXDR Display with LTPO",
+        "Battery": "5,850 mAh",
+        "Camera": "Sony LYT-700 50MP main camera , Telephoto Camera: 50MP, 32MP front camera ",
+        "Processor": "Snapdragon® 8 Elite Mobile Platform",
+        "RAM and storage": " 12GB LPDDR5X + 512GB  | 12GB+256GB  "
+      }
+    },
+    {
+      "id": 7,
+      "name": "Infinix GT 30 Pro",
+      "price": "24,999.00",
+      "description": "World's 1st MediaTek Dimensity 8350 ULTIMATE",
+      "image": "https://cdn.beebom.com/content/2025/06/infinix-gt-30-pro-marketing-material-showcasing-back-panel.jpg",
+      "specs": {
+        "Display": "1.5K AMOLED Display with 144Hz Refresh Rate",
+        "Battery": "5500mAh",
+        "Camera": "108MP main camera , ULTRA-WIDE ANGLE: 8MP, 13MP front camera ",
+        "Processor": "MediaTek Dimensity 8350 Ultimate",
+        "RAM and storage": "256GB ROM + 8GB RAM + 8GB Extended RAM | 256GB ROM + 12GB RAM + 12GB Extended RAM"
+      }
+    },
+    {
       "id": 1,
       "name": "Vivo T4 5G",
       "price": "21,999",
